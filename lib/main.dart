@@ -44,7 +44,7 @@ class _MyAppState extends State<MyApp> {
                       Expanded(
                         flex: 2,
                         child: SvgPicture.asset(
-                          'images/professor_wallpaper.svg',
+                          'images/teacher.svg',
                         ),
 //                        child: Image.asset('images/login_wallpaper.png'),
                       ),
