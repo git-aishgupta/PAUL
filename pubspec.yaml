@@ -22,8 +22,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/login.svg
-    - images/professor_wallpaper.svg
+    - images/teacher.svg
 
   fonts:
     - family: Montserrat
